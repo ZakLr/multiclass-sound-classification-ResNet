@@ -22,8 +22,10 @@ The research paper includes a detailed pipeline diagram illustrating the step-by
 ## Repository Structure
 ```
 multiclass-sound-classification-ResNet/
-├── paper.pdf      # The compiled research paper
+├── multiclass_sound_classification_paper.pdf      # The compiled research paper
 ├── README.md      # Project documentation and paper link
+├── LICENSE        # The MIT license
+├── first_page.jpg   # The first page of the paper
 └── script.ipynb    # The Jupyter Notebook used to produce the results
 ```
 
